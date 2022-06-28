@@ -16,7 +16,7 @@ Problem Statement
 Calculate the number of steps required to reach 1 from a given number `n` by following the Collatz sequence.
 
 ```math
-f(n) = \begin{cases}3n+12&\text{ if $n$ is odd,}\\\frac{n}{2}&\text{ if $n$ is even.}\end{cases}
+f(n) = \begin{cases}3n+1&\text{ if $n$ is odd,}\\\frac{n}{2}&\text{ if $n$ is even.}\end{cases}
 ```
 
 
